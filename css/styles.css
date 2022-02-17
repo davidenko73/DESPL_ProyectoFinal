@@ -81,8 +81,8 @@ footer .footer_links ul li a:hover{
     font-size: 20px;
     list-style: none;
     color: black;
-   display: inline-block;
-   text-align: left;   
+    display: inline-block;
+    text-align: left;   
 }
 
 #juego_1 > ul > li > b{
@@ -98,6 +98,45 @@ footer .footer_links ul li a:hover{
 }
 
 #basura_1{    
+    border: none;
+    margin-left: 300px;
+}
+
+#juego_2 > ul{
+    font-size: 20px;
+    list-style: none;
+    color: black;
+    display: inline-block;
+    text-align: left;   
+}
+
+#juego_2 > ul > li > b{
+    text-decoration: underline;   
+}
+
+#basura_2{    
+    border: none;
+    margin-left: 300px;
+}
+
+#juego_3 > ul{
+    font-size: 20px;
+    list-style: none;
+    color: black;
+    display: inline-block;
+    text-align: left;   
+}
+
+#juego_3 > ul > li > b{
+    text-decoration: underline;   
+}
+
+.img3{
+    margin-bottom: 100px;
+    margin-left: 56px;
+}
+
+#basura_3{    
     border: none;
     margin-left: 300px;
 }
