@@ -1,0 +1,3 @@
+# DESPL_ProyectoFinal
+Este proyecto final pertenece a las asignaturas de Diseño de Interfaces Web y a Despliegue de Aplicaciones Web.
+El proyecto consiste en hacer una aplicación donde mostremos el carrito de la compra de nuestra tienda con sus respectivas funcionalidades y diseño de la propia, esta parte pertenece al trabajo de Diseño. En la parte de Despliegue deberemos alojar el proyecto en Github para mendiante la version escritorio y realizando commits subiremos nuestro avance en diferentes versiones para que siempre este seguro. 

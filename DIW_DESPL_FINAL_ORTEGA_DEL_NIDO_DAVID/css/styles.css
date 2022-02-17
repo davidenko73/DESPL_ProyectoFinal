@@ -90,7 +90,7 @@ footer .footer_links ul li a:hover{
 }
 
 .img1{
-  margin-bottom: 100px;
+  margin-bottom: 70px;
 }
 
 .fa-trash{
@@ -132,11 +132,41 @@ footer .footer_links ul li a:hover{
 }
 
 .img3{
-    margin-bottom: 100px;
+    margin-bottom: 70px;
     margin-left: 56px;
 }
 
 #basura_3{    
     border: none;
     margin-left: 300px;
+}
+
+.gastos > p{
+    font-size: 20px;
+    color: black;
+    text-align: center;    
+}
+
+#totop{
+    background: rgb(80, 121, 255);
+    display: none;
+    position: fixed;
+    right: 30px;
+    bottom: 64px;
+    width: 40px;
+    height: 38px;
+    cursor: pointer;
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(0, 0, 0);
+}
+
+header .user-utils #shopping-cart > span{
+    font-size: 12px;
+    width: 16px;
+    height: 16px;
+    margin-top: -3px;
+    padding-top: 1px;
+    background-color: #fdcdfd;
+    color: black;
 }
